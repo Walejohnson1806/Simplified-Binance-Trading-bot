@@ -152,9 +152,9 @@ def main():
     print("📝 This bot uses TESTNET ,no real money involved!")
     print("=" * 50)
     
-    API_KEY = "Test.net servers are currently down i couldnt run this"
-    API_SECRET = "Test.net servers are currently down i couldnt run this"
-    if API_KEY == "":
+    API_KEY = "692a84743491f1d76a25b2fe763b2988869244716e1c0193088d833a68cbe5d7"
+    API_SECRET = "32c6d5057a980202536084be0a59c28fc0564609549db1bd342de9c4a5224187"
+    if API_KEY == "692a84743491f1d76a25b2fe763b2988869244716e1c0193088d833a68cbe5d":
         print("❌ Please set your API keys first!")
         print("🔗 Get them from: https://testnet.binancefuture.com/")
         return

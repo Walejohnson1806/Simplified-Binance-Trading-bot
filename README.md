@@ -1,6 +1,6 @@
 This is a Simple Trading Bot
 A beginner-friendly cryptocurrency trading bot for Binance Futures Testnet. Perfect forlearning how automated trading works without risking real money.
-What This Bot Does
+What This Bot Does;
 
 Market Orders: Buy/sell immediately at current market price.
 Limit Orders: Buy/sell only at your specified price

@@ -1,0 +1,8 @@
+2025-09-25 18:46:00,085 - INFO - 🤖 Trading Bot initialized on TESTNET (practice mode)
+2025-09-25 18:47:12,277 - INFO - 💰 Account Balance: $15000.00 USDT
+2025-09-25 18:47:26,105 - ERROR - ❌ Could not get price for : list indices must be integers or slices, not str
+2025-09-25 20:17:49,123 - INFO - 🤖 Trading Bot initialized on TESTNET (practice mode)
+2025-09-25 21:02:35,539 - INFO - 🤖 Trading Bot initialized on TESTNET (practice mode)
+2025-09-25 21:04:11,223 - INFO - 🤖 Trading Bot initialized on TESTNET (practice mode)
+2025-09-25 21:04:20,457 - INFO - 💰 Account Balance: $15000.00 USDT
+2025-09-25 21:04:32,705 - ERROR - ❌ Could not get price for 3: APIError(code=-1121): Invalid symbol.
